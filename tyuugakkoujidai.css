@@ -1,0 +1,25 @@
+.headerinner{
+  background-color: #87cefa;
+}
+h1{
+  border-bottom:1px solid #f0f8ff;
+  font-size:24px;
+  font-weight:bold;
+  color:#333;
+  margin:0;
+}
+.maininner{
+  background-color:#f8f8ff;
+  font-size:20px;
+  color:#333;
+}
+.headerinner,.maininner,.footerinner{
+max-width:650px;
+  margin:auto;
+  padding:20px;
+}
+.footerinner{
+  background-color:#87cefa;
+  font-size:20px;
+  color:#333;
+}
